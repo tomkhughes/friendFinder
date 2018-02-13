@@ -1,0 +1,31 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "friend finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomkhughes/friendFinder.git"
+  },
+  "keywords": [
+    "friend",
+    "finder",
+    "express",
+    "node",
+    "js"
+  ],
+  "author": "Tom K Hughes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomkhughes/friendFinder/issues"
+  },
+  "homepage": "https://github.com/tomkhughes/friendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
