@@ -1,7 +1,7 @@
 var friendsArray = [
 {
   name:"Ahmed",
-  photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  photo:"https://reprieve.org.uk/wp-content/uploads/2014/11/Ahmed.jpg",
   scores:[
       5,
       1,
@@ -14,6 +14,55 @@ var friendsArray = [
       4,
       1
       ]
-}];
+},
+{
+  name:"Lil Yachty",
+  photo:"https://static.stereogum.com/uploads/2017/05/GettyImages-634994046-1496171524-640x426.jpg",
+  scores:[
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+      ]
+},
+{
+  name:"Beyonce",
+  photo:"https://static.stereogum.com/uploads/2017/05/GettyImages-634994046-1496171524-640x426.jpg",
+  scores:[
+      1,
+      4,
+      1,
+      1,
+      4,
+      3,
+      1,
+      4,
+      4,
+      1
+      ]
+},
+{
+  name:"Michael Jordan",
+  photo:"https://c1.staticflickr.com/9/8119/8645746456_9a1f13acca_z.jpg",
+  scores:[
+      2,
+      3,
+      2,
+      3,
+      2,
+      3,
+      2,
+      3,
+      2,
+      3
+      ]
+},
+];
 
 module.exports = friendsArray;
